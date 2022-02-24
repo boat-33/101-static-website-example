@@ -1,5 +1,7 @@
 # Build a Static Webpage
 
+## Small change
+
 The purpose of this repository is to demonstrate how to build a static webpage using github pages and plotly.
 
 * You can view this repo as a static web page here: https://boat-33.github.io/101-static-website-example/
